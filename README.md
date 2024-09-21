@@ -7,7 +7,6 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PuLID-jupyter/blob/main/PuLID_jupyter.ipynb) | PuLID_jupyter
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PuLID-jupyter/blob/main/PuLID-FLUX_jupyter.ipynb) | PuLID-FLUX_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/ToTheBeginning/PuLID
